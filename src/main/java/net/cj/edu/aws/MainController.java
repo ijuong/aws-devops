@@ -14,7 +14,7 @@ public class MainController {
 
 	@GetMapping("/")
 	public String home() {
-		return "<h1>aws-devops</h1>";
+		return "<h1>aws-devops (ci/cd finish)</h1>";
 	}
 	
 	@GetMapping("/date")
